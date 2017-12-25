@@ -17,3 +17,22 @@
 ### **Prerequisites**
 
 #### What things you need to install the software and how to install them
+
+<br />
+
+####  [Python 2.7](https://www.python.org/downloads/release/python-2714/)
+
+
+####  Certain Python modules:
+
+#### Pysrt
+
+#### a)  Linux
+```
+  sudo pip install pysrt       
+```
+
+#### Windows
+```
+  python -m pip install pysrt  
+```
