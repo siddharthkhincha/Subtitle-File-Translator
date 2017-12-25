@@ -6,14 +6,14 @@
 
 ### Tired of trying to look explicitly for subtitles in your language?
 
-### __Well you **_do not_** have to look further. Subtitle-File-Translator is a piece of software which very accurately translates subtitle files and is extremely _**easy to use**_.__
+### __Well you **_do not_** have to look any further. Subtitle-File-Translator is a piece of software which very accurately translates subtitle files and is extremely _**easy to use**_.__
 
 <br />
 
 ### How easy you ask?
 ### Well all you have to do is something like this
-
-
+![Just one command line command and you are done!](https://github.com/siddharthkhincha/Subtitle-File-Translator/blob/master/Media/Capture.JPG)
+### And the program does the rest for you!!! 
 <br /><br />
 
 # *_Getting Started_*
@@ -75,10 +75,10 @@
 
 
 ```
-  python translate.py file_to_be_translated.srt From_Language_Code To_Language_Code File_to_be_saved_in        
+  python translate.py file_to_be_translated.srt From_Language_Code To_Language_Code File_to_be_saved_in.srt        
 
 ```
-#### It is not required to give the _"File_to_be_saved_in"_ and if not specified the software will automatically assign the output file a suitbale name, which can be found in your current directory
+#### It is not required to give the _"File_to_be_saved_in.srt"_ and if not specified the software will automatically assign the output file a suitbale name, which can be found in your current directory
 <br />
 
 |  Language  |   Code  |
@@ -104,5 +104,4 @@
 ## Licence
 
 #### This project is licensed under the MIT License - see the LICENSE.md file for details
-
 
