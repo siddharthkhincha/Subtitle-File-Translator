@@ -25,14 +25,28 @@
 
 ####  Certain Python modules:
 
-#### Pysrt
+#### 1.) Pysrt
 
-#### a)  Linux
+####     a)  Linux
 ```
   sudo pip install pysrt       
 ```
 
-#### Windows
+####     b)  Windows
+```
+  python -m pip install pysrt  
+```
+
+
+#### 2.) Pydeepl
+
+####     a)   Linux
+```
+  sudo pip install pysrt       
+```
+
+
+####     b)  Windows
 ```
   python -m pip install pysrt  
 ```
